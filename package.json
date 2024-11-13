@@ -1,0 +1,16 @@
+{
+  "name": "studim_data",
+  "version": "1.0.0",
+  "description": "\"Web data scraper \"",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"UhHuhWorks\"",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "puppeteer": "^23.8.0"
+  }
+}
